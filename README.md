@@ -1,0 +1,3 @@
+# trial_reservation_extract_script
+Stores予約の情報を抽出してカレンダーに反映するためのスクリプト
+テンプレート化の上公開について、許可取得済み
